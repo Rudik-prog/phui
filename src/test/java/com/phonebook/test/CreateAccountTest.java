@@ -22,6 +22,7 @@ public class CreateAccountTest extends TestBase {
         Assert.assertTrue(isElementPresent(By.xpath("//button[.='Sign Out']")));
 
 
+
     }
 //    click on login Linrk
 //    enter email to email field

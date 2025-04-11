@@ -11,6 +11,7 @@ public class HomePageTests extends TestBase {
         //System.out.println("Home Component "+isHomeComponentPresent());
         Assert.assertTrue(isHomeComponentPresent());
 
+
     }
 
 }

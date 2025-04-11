@@ -12,6 +12,7 @@ public class HomePageTests extends TestBase {
         Assert.assertTrue(isHomeComponentPresent());
 
 
+
     }
 
 }

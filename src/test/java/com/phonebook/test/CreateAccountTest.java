@@ -21,6 +21,8 @@ public class CreateAccountTest extends TestBase {
         //    verify SignOut button is displayed
         Assert.assertTrue(isElementPresent(By.xpath("//button[.='Sign Out']")));
 
+        Assert.assertTrue(isElementPresent(By.xpath("//button[.='Sign Out']")));
+
 
 
 
